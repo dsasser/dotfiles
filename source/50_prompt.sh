@@ -23,9 +23,9 @@
 # 33  43  yellow    37  47  white
 
 prompt_colors=(
-  "32" # information color
-  "35" # bracket color
-  "31" # error color
+  "31" # information color
+  "37" # bracket color
+  "41" # error color
   "33" # vcs color
 )
 
