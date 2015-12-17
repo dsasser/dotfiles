@@ -1,2 +1,2 @@
 # Support for Dev Tools
-eval "$(~/Projects/_devtools_vm/bin/config.sh)"
+eval "$(~/projects/_devtools_vm/bin/config.sh)"
